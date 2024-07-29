@@ -1,73 +1,74 @@
-# Resolvendo Códigos em Python com o Github Copilot
+# Resolvendo Códigos em Python com a IA
 
-Olá!! Aqui veremos algumas resoluções de códigos em python utilizando o Github Copilot.
+Resoluções de códigos em python utilizando as possíveis IAs.
 
 ### Atenção ⚠️ 
 
-Não tem acesso ao Github Copilot?! Não tem problema!! 
-Que tal utilizar o [ChatGPT](https://chat.openai.com/) como seu copiloto de estudos ??
+Utilizar as possíveis formas de IA - Nos exemplos abaixo foi usado o Gemini!
 
 ## 1 - Concatenando Dados 🐾
 
-Descrição:
-Vamos receber dois dados diferentes do usuário e concatena-los em uma única string?! 
+Prompt para IA:
+Desejo construir em python um código em que ao receber dois dados de string do usuário e possa concatena-los em uma única string como resultado.
 
-O que aprenderemos?
+O que irá ser abordado no aprendizado?
 
 * Manipulação de Strings (string)
 * Concatenação
 * Entrada de dados
-* Utilização eficiente do Github Copilot
+* Utilização eficiente do Gemini
 
 <br>
 
 ## 2 - Repetindo Textos ✏️
 
-Descrição:
-Agora vamos solicitar uma string e um número inteiro como entrada. Depois teremos que retornar a string repetida o número de vezes informado. 
+Prompt para IA:
+Desejo construir em python um código em que será solicitado uma string e um número inteiro como entrada. Depois teremos que retornar a string repetida o número de vezes informado de forma separada. 
 
-O que aprenderemos?
+O que irá ser abordado no aprendizado?
 
 * Manipulação de Strings (string)
 * Números Inteiros (int)
 * Múltiplas repetições
 * Entrada de dados
-* Aproveitar as sugestões do Github Copilot
+* Aproveitar as sugestões do Gemini
 
 <br>
 
 ## 3 - Operações Matemáticas Simples 📐
 
-Descrição:
-Vamos solicitar como entrada dois números e depois vamos realizar uma operação simples entre eles.
+Prompt para IA:
+Desejo construir em python um código em que será solicitado como entrada dois números e depois vamos realizar uma operação matemáticas (soma, subtração, multiplicação e divisão) entre eles.
 
-O que aprenderemos?
+O que irá ser abordado no aprendizado?
 
 * Operações Matemáticas Básicas
 * Entrada de dados
-* Utilização eficiente do Github Copilot
+* Utilização eficiente do Gemini
 
 <br>
 
 ## 4 - Verificando Números Pares e Ímpares 🧮
 
-Descrição: Como entrada, receba um número inteiro e verifique se ele é par ou ímpar. 
-Uma dica é: Utilize condicionais para realizar a verificação e, se possível, faça uso do Github Copilot(ou outra IA) para otimizar a estrutura do código.
+Prompt para IA:
+Desejo construir em python um código em que será recebido um número inteiro e verifique se ele é par ou ímpar. Mas utilize condicionais para realizar a verificação.
 
-O que aprenderemos?
+O que irá ser abordado no aprendizado?
+
 * Utilização de condicionais em Python (if, else) para realizar verificações.
 * Introdução ao conceito de operador de módulo (%) para verificar se um número é par ou ímpar.
-* Exploração do uso de uma ferramenta de IA, como o Github Copilot, para otimizar a estrutura do código.
+* Exploração do uso de uma ferramenta de IA, como o Gemini, para otimizar a estrutura do código.
 
 
 <br>
 
 ## 5 - Calculando Média de Notas 📚
 
-Descrição: Agora vamos calcular a média de três notas fornecidas na entrada do usuário. 
-Uma dica é: Utilize operadores aritméticos para realizar o cálculo da média.
+Prompt para IA:
+Desejo construir em python um código em que será calculada a média de três notas fornecidas na entrada do usuário. Faça a utilização de operadores aritméticos para realizar o cálculo da média.
 
-O que aprenderemos?
+O que irá ser abordado no aprendizado?
+
 * Uso de variáveis para armazenar dados fornecidos pelo usuário.
 * Aplicação de operadores aritméticos (+, /) para calcular a média de um conjunto de valores.
 * Prática na solicitação e manipulação de entrada do usuário.
@@ -76,10 +77,11 @@ O que aprenderemos?
 
 ## 6 - Verificando Palíndromos 🔄
 
-Descrição: Vamos testar se uma palavra é um palíndromo?! 
-Uma dica é: Utilize conceitos de manipulação de strings para inverter a palavra e comparar com a original.
+Prompt para IA:
+Desejo construir em python um código em que será testado se uma palavra é um palíndromo. Mas sejam utilizados os conceitos de manipulação de strings para inverter a palavra e comparar com a original.
 
-O que aprenderemos?
+O que irá ser abordado no aprendizado?
+
 * Manipulação de strings em Python, especialmente invertendo uma string.
 * Compreensão de como comparar a string original com sua versão invertida para determinar se é um palíndromo.
 * Introdução ao conceito de palíndromos e sua aplicação em problemas de programação.
